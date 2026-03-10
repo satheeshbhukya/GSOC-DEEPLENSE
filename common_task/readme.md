@@ -18,6 +18,5 @@ The following models were trained and evaluated for classification:
 - ResNet18
 - tf_efficientnet_b4_ns
 ## Results
-<img width="766" height="529" alt="Screenshot 2026-03-10 110254" src="https://github.com/user-attachments/assets/9cc6917c-00b2-4c1d-80a8-4f5aa364c7ed" />
-<img width="637" height="467" alt="Screenshot 2026-03-10 110317" src="https://github.com/user-attachments/assets/2bb0b241-7b0d-4303-b202-5eaefc6a8a43" />
-
+<img src="https://github.com/user-attachments/assets/9cc6917c-00b2-4c1d-80a8-4f5aa364c7ed" width="450">
+<img src="https://github.com/user-attachments/assets/2bb0b241-7b0d-4303-b202-5eaefc6a8a43" width="450">
