@@ -10,7 +10,6 @@ For this task, I trained following models:
 
 - ResNet18
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/47d018a9-82d5-4327-9107-8ae6ce6c6240" width="45%">
-  <img src="https://github.com/user-attachments/assets/8cc7103f-d548-493c-9418-804096def852" width="45%">
-</p>
+## Results
+<img src="https://github.com/user-attachments/assets/47d018a9-82d5-4327-9107-8ae6ce6c6240" width="450">
+<img src="https://github.com/user-attachments/assets/8cc7103f-d548-493c-9418-804096def852" width="450">
