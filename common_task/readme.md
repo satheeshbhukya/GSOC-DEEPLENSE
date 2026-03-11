@@ -17,6 +17,7 @@ Develop a deep learning model using **PyTorch** or **Keras** to classify the ima
 The following models were trained and evaluated for classification:
 - ResNet18
 - tf_efficientnet_b4_ns
-## Results
-<img src="https://github.com/user-attachments/assets/9cc6917c-00b2-4c1d-80a8-4f5aa364c7ed" width="450">
-<img src="https://github.com/user-attachments/assets/2bb0b241-7b0d-4303-b202-5eaefc6a8a43" width="450">
+## Results 
+
+<img src="https://github.com/user-attachments/assets/eb8252c7-25f5-49f9-816a-3bd0b16da485" width="450">
+<img src="https://github.com/user-attachments/assets/3b6ccd47-0824-441b-9cb4-9f40a9ec77f9" width="450">
